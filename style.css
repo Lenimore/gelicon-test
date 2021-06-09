@@ -1,0 +1,41 @@
+html body {
+	background: #f2f2f2;
+	font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+.fs-48 {
+	font-size: 48px;
+}
+
+.fw-900 {
+	font-weight: 900;
+}
+
+.fw-700 {
+	font-weight: 700;
+}
+
+.h2 {
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.mt-100 {
+	margin-top: 100px;
+}
+
+.mb-40 {
+	margin-bottom: 40px;
+}
+
+.mb-80 {
+	margin-bottom: 80px;
+}
+
+.container {
+	max-width: 1000px;
+}
+
+.pl-300 {
+	padding-left: 300px;
+}
