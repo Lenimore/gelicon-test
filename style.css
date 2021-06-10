@@ -6,6 +6,9 @@ html body {
 .fs-48 {
 	font-size: 48px;
 }
+.fs-24 {
+	font-size: 24px;
+}
 
 .fw-900 {
 	font-weight: 900;
@@ -15,13 +18,13 @@ html body {
 	font-weight: 700;
 }
 
-.h2 {
-	font-size: 24px;
-	font-weight: 700;
-}
 
 .mt-100 {
 	margin-top: 100px;
+}
+
+.mb-60 {
+	margin-bottom: 60px;
 }
 
 .mb-40 {
@@ -36,6 +39,24 @@ html body {
 	max-width: 1000px;
 }
 
-.pl-300 {
-	padding-left: 300px;
+.ptb-60{
+	padding: 60px 0;
+}
+
+.footer {
+	background: white;
+
+}
+
+.btn-success {
+	background: #2CC34F;
+}
+
+.btn-success:hover {
+  background-color: #22943C;
+}
+
+.btn-success:disabled {
+	background: #22943C;
+	opacity: 1;
 }
