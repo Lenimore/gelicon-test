@@ -18,7 +18,6 @@ html body {
 	font-weight: 700;
 }
 
-
 .mt-100 {
 	margin-top: 100px;
 }
@@ -39,24 +38,23 @@ html body {
 	max-width: 1000px;
 }
 
-.ptb-60{
+.ptb-60 {
 	padding: 60px 0;
 }
 
 .footer {
 	background: white;
-
 }
 
 .btn-success {
-	background: #2CC34F;
+	background: #2cc34f;
 }
 
 .btn-success:hover {
-  background-color: #22943C;
+	background-color: #22943c;
 }
 
 .btn-success:disabled {
-	background: #22943C;
+	background: #22943c;
 	opacity: 1;
 }
