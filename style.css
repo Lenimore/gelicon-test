@@ -6,8 +6,17 @@ html body {
 .fs-48 {
 	font-size: 48px;
 }
+
+.fs-36 {
+	font-size: 36px;
+}
+
 .fs-24 {
 	font-size: 24px;
+}
+
+.fs-18 {
+	font-size: 18px;
 }
 
 .fw-900 {

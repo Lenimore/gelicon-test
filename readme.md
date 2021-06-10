@@ -1,6 +1,5 @@
-Макет:
-
-https://www.figma.com/file/SfbyKphQmOoqZKzzB65n88/Task?node-id=0:1
+[Макет]
+(https://www.figma.com/file/SfbyKphQmOoqZKzzB65n88/Task?node-id=0:1)
  
 
 1. При нажатии на кнопку "Добавить в корзину":
