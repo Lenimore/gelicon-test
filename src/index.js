@@ -1,4 +1,5 @@
 'use strict';
+import './style.css';
 
 const createMockProductArray = () => {
 	let products = [
